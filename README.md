@@ -1,9 +1,9 @@
-
+######  Weak in
 ![C](https://img.shields.io/badge/c-1E1E1E?style=flat&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-1E1E1E?style=flat&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-1E1E1E?style=flat&logo=python&logoColor=ffdd54)
 ##
-                                                                AFK no PRK
+                                                             AFK no PRK
 ![Gothic JPG](https://i.pinimg.com/1200x/f7/41/60/f74160a8021e4b049462f1088708cb71.jpg)
 
 
