@@ -3,7 +3,7 @@
 ![C++](https://img.shields.io/badge/c++-1E1E1E?style=flat&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-1E1E1E?style=flat&logo=python&logoColor=ffdd54)
 
-![Gothic GIF](https://i.postimg.cc/Kznf5SY3/sdd0a0e279c498b1a9242c9c5372c521e3.gif)
+![Gothic JPG](https://i.pinimg.com/1200x/f7/41/60/f74160a8021e4b049462f1088708cb71.jpg)
 
 
 
